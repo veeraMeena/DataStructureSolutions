@@ -1,0 +1,6 @@
+1. FindMaximumElementInArray.java
+2. TwoSumProblem.java
+        Find the target is available in sum of two elements in array.
+3. FindSubArrayWithGivenSum
+         Find given target available in the Sub Array while Summing it
+
