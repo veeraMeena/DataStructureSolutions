@@ -6,20 +6,8 @@ public class main {
     record Employee(String name, int age) {}
 
     public static void main(String[] args) {
-//        String text = null;
-//        System.out.println(text.length());
 
-        String html = """
-    <html>
-        <body>
-            <h1>Hello Java 17</h1>
-        </body>
-    </html>
-    """;
-
-        System.out.println(html);
-
-       Employee e1 =  new Employee("A", 10);
+        
 
     }
 }
